@@ -1,11 +1,9 @@
 import { useState } from "react";
-
 import "./App.css";
 
 import original_students from "./data/students.js";
-
 import Header from "./components/Header.jsx";
-import Dashboard from "./components/dashboard.jsx";
+import Dashboard from "./components/Dashboard.jsx";
 import AddStudents from "./components/AddStudents.jsx";
 import Footer from "./components/Footer.jsx";
 
