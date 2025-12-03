@@ -1,4 +1,4 @@
-import "../style/dashboard.css";
+import "../style/Dashboard.css";
 
 function Dashboard({ students }) {
   return (
